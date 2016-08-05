@@ -1,0 +1,32 @@
+_repo: London-Pride-Or-When-the-World-Was-Younger_9377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Breddon, Miss
+    - Braddon, Mary Elizabeth
+    - Maxwell, Mary Elizabeth Braddon
+    - White, Babington
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- GITenberg
+title: London Pride, Or, When the World Was Younger
+url: http://www.gutenberg.org/ebooks/9377
